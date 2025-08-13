@@ -3,14 +3,6 @@ body {
   background: #272044;
 }
 
-h1 {
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 96px;
-  line-height: 144px;
-}
-
 .container {
   max-width: 1400px;
   margin: 0 auto;
