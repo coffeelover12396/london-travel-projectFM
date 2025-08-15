@@ -24,6 +24,9 @@ body {
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
+.grid-3-columns {
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
 .grid-3-columns-with-first-narrow {
   grid-template-columns: 1fr 2fr 2fr;
