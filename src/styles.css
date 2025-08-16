@@ -18,7 +18,6 @@ body {
 
 .img-responsive {
   max-width: 100%;
-  max-height: fit-content;
   display: block;
 }
 
@@ -34,7 +33,7 @@ body {
 }
 
 .embed {
-  width: 100%;
+  max-width: 100%;
   aspect-ratio: 1 /1;
 }
 
