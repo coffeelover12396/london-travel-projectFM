@@ -17,7 +17,7 @@ body {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
 }
 
@@ -33,8 +33,8 @@ body {
 }
 
 .embed {
-  max-width: 100%;
-  aspect-ratio: 1 /1;
+  width: 100%;
+  aspect-ratio: 1/1;
 }
 
 .card {
